@@ -6,7 +6,7 @@ select * from tabela_paises;
 
 Questão 02:
 ```sql
-select * from tabela_paises qhere pais = 'Brazil';
+select * from tabela_paises where pais = 'Brazil';
 ```
 Questão 03:
 ```sql
